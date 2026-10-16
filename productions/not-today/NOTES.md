@@ -22,7 +22,10 @@ Needs `bash bin/setup.sh --full` first (for librosa/PIL/numpy in `/root/.claudia
 
 ## Next (budget: under $20)
 
-1. With `HF_TOKEN` in the environment, generate the stills through Inference Providers
+0. The owner enabled HF Jobs on the Hugging Face connector (needs a new session to load the tools). Preferred path:
+   one paid GPU job (L4/L40S, roughly $1–2/hr) that generates all stills (FLUX/Qwen-Image) and the image-to-video
+   clips (Wan 2.2) with diffusers, writing the outputs to an HF dataset/bucket we then download. Estimate first.
+1. Or, With `HF_TOKEN` in the environment, generate the stills through Inference Providers
    (`https://router.huggingface.co`, reachable from the container), then image-to-video clips (Wan 2.2) for the key shots.
 2. Restyle the stills toward Portal (below), replace drawn graphics where a still is better, re-render at 1920x1080.
 
