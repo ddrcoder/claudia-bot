@@ -8,7 +8,7 @@ import torch
 from diffusers import FluxPipeline
 from PIL import Image, ImageDraw
 
-OUT = Path("/out/stills_v2"); OUT.mkdir(parents=True, exist_ok=True)
+OUT = Path("/out") / os.environ.get("OUTDIR", "stills_v2"); OUT.mkdir(parents=True, exist_ok=True)
 SHOTS = json.loads(os.environ["SHOTS"])
 SEEDS = [int(s) for s in os.environ.get("SEEDS", "11,23").split(",")]
 W, H = 1344, 768
