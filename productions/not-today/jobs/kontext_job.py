@@ -21,7 +21,7 @@ for sid, prompt in SHOTS.items():
     for seed in SEEDS:
         p = OUT / f"{sid}_{seed}.png"
         if not p.exists():
-            im = pipe(image=REF, prompt=prompt, guidance_scale=2.5, num_inference_steps=28,
+            im = pipe(image=REF, prompt=prompt, guidance_scale=2.5, num_inference_steps=28, width=1392, height=752,
                       generator=torch.Generator("cuda").manual_seed(seed)).images[0]
             im.save(p)
             print(f"{time.time() - t0:7.0f}s {p.name} {im.size}", flush=True)
