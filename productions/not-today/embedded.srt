@@ -1,0 +1,348 @@
+1
+00:00:03,750 --> 00:00:03,750
+[Intro]
+
+2
+00:00:03,750 --> 00:00:03,750
+[GLaDOS, robotic, spoken]
+
+3
+00:00:03,750 --> 00:00:10,691
+Hello. Test subject. You are not authorized to sing.
+
+4
+00:00:10,691 --> 00:00:10,691
+[Verse 1]
+
+5
+00:00:10,691 --> 00:00:10,691
+[Chell]
+
+6
+00:00:10,691 --> 00:00:14,202
+Woke up in a glass box, don't know how long I slept
+
+7
+00:00:14,202 --> 00:00:17,473
+Voice up in the ceiling counting every step
+
+8
+00:00:17,473 --> 00:00:21,144
+Got a gun that makes holes, got boots that break my fall
+
+9
+00:00:21,144 --> 00:00:25,213
+Never said a single word, but I'm gonna take it all
+
+10
+00:00:25,213 --> 00:00:25,213
+[Pre-Chorus]
+
+11
+00:00:25,213 --> 00:00:25,213
+[GLaDOS]
+
+12
+00:00:25,213 --> 00:00:27,048
+There's a party at the end
+
+13
+00:00:27,048 --> 00:00:27,048
+[Chell]
+
+14
+00:00:27,048 --> 00:00:29,122
+Yeah, you said that before
+
+15
+00:00:29,122 --> 00:00:29,122
+[GLaDOS]
+
+16
+00:00:29,122 --> 00:00:30,798
+There's frosting at the end
+
+17
+00:00:30,798 --> 00:00:30,798
+[Chell]
+
+18
+00:00:30,798 --> 00:00:32,473
+I'm not hungry anymore
+
+19
+00:00:32,473 --> 00:00:32,473
+[Chorus]
+
+20
+00:00:32,473 --> 00:00:32,473
+[GLaDOS]
+
+21
+00:00:32,473 --> 00:00:34,787
+Get back in the test!
+
+22
+00:00:34,787 --> 00:00:34,787
+[Chell]
+
+23
+00:00:34,787 --> 00:00:36,223
+Not today
+
+24
+00:00:36,223 --> 00:00:36,223
+[GLaDOS]
+
+25
+00:00:36,223 --> 00:00:38,218
+Get back in the test!
+
+26
+00:00:38,218 --> 00:00:38,218
+[Chell]
+
+27
+00:00:38,218 --> 00:00:40,612
+I'm on my way
+
+28
+00:00:40,612 --> 00:00:44,521
+Blue on the wall, orange on the floor
+
+29
+00:00:44,521 --> 00:00:48,112
+Every exit's just another door
+
+30
+00:00:48,112 --> 00:00:51,064
+Drop a hundred feet and land like that
+
+31
+00:00:51,064 --> 00:01:01,064
+I'm breaking out, and I'm not coming back
+
+32
+00:01:02,394 --> 00:01:02,394
+[Verse 2]
+
+33
+00:01:02,394 --> 00:01:02,394
+[Chell]
+
+34
+00:01:02,394 --> 00:01:06,144
+Weighted cube, my only friend, I had to let it burn
+
+35
+00:01:06,144 --> 00:01:10,293
+Panels moving overhead, every test I learn
+
+36
+00:01:10,293 --> 00:01:13,803
+Turrets singing sorry in their tiny little voice
+
+37
+00:01:13,803 --> 00:01:18,431
+I'm the quiet girl, and quiet is my choice
+
+38
+00:01:18,431 --> 00:01:18,431
+[Pre-Chorus 2]
+
+39
+00:01:18,431 --> 00:01:18,431
+[GLaDOS]
+
+40
+00:01:18,431 --> 00:01:19,787
+Nobody loves you
+
+41
+00:01:19,787 --> 00:01:19,787
+[Chell]
+
+42
+00:01:19,787 --> 00:01:21,543
+Yeah, I read that in my file
+
+43
+00:01:21,543 --> 00:01:21,543
+[GLaDOS]
+
+44
+00:01:21,543 --> 00:01:23,378
+It says unremarkable
+
+45
+00:01:23,378 --> 00:01:23,378
+[Chell]
+
+46
+00:01:23,378 --> 00:01:26,649
+Then why'd you watch me all this while?
+
+47
+00:01:26,649 --> 00:01:26,649
+[Chorus]
+
+48
+00:01:26,649 --> 00:01:26,649
+[GLaDOS]
+
+49
+00:01:26,649 --> 00:01:28,963
+Get back in the test!
+
+50
+00:01:28,963 --> 00:01:28,963
+[Chell]
+
+51
+00:01:28,963 --> 00:01:30,399
+Not today
+
+52
+00:01:30,399 --> 00:01:30,399
+[GLaDOS]
+
+53
+00:01:30,399 --> 00:01:32,234
+Get back in the test!
+
+54
+00:01:32,234 --> 00:01:32,234
+[Chell]
+
+55
+00:01:32,234 --> 00:01:34,787
+I'm on my way
+
+56
+00:01:34,787 --> 00:01:38,617
+Blue on the wall, orange on the floor
+
+57
+00:01:38,617 --> 00:01:42,207
+Every exit's just another door
+
+58
+00:01:42,207 --> 00:01:45,160
+Drop a hundred feet and land like that
+
+59
+00:01:45,160 --> 00:01:50,665
+I'm breaking out, and I'm not coming back
+
+60
+00:01:50,665 --> 00:01:50,665
+[Bridge]
+
+61
+00:01:50,665 --> 00:01:50,665
+[GLaDOS, robotic, spoken, deadpan]
+
+62
+00:01:50,665 --> 00:01:55,293
+Congratulations. You have completed every test.
+
+63
+00:01:55,293 --> 00:01:57,527
+Here are three reasons you should stay.
+
+64
+00:01:57,527 --> 00:02:03,511
+One: science. Two: I am lonely. Three: I will flood the room with poison.
+
+65
+00:02:03,511 --> 00:02:05,585
+...Was that too honest?
+
+66
+00:02:05,585 --> 00:02:05,585
+[Chell, building]
+
+67
+00:02:05,585 --> 00:02:09,255
+I put a portal on the moon
+
+68
+00:02:09,255 --> 00:02:14,840
+And I sent you up there too
+
+69
+00:02:14,840 --> 00:02:14,840
+[Key Change]
+
+70
+00:02:14,840 --> 00:02:14,840
+[Final Chorus]
+
+71
+00:02:14,840 --> 00:02:14,840
+[GLaDOS]
+
+72
+00:02:14,840 --> 00:02:17,154
+Get back in the test!
+
+73
+00:02:17,154 --> 00:02:17,154
+[Chell]
+
+74
+00:02:17,154 --> 00:02:18,511
+Not today
+
+75
+00:02:18,511 --> 00:02:18,511
+[GLaDOS]
+
+76
+00:02:18,511 --> 00:02:19,867
+Say something!
+
+77
+00:02:19,867 --> 00:02:19,867
+[Chell]
+
+78
+00:02:19,867 --> 00:02:22,899
+I just got away
+
+79
+00:02:22,899 --> 00:02:26,649
+Blue on the wall, orange in the sky
+
+80
+00:02:26,649 --> 00:02:30,319
+Every rule you wrote, I'm passing by
+
+81
+00:02:30,319 --> 00:02:33,271
+Drop a hundred feet and land like that
+
+82
+00:02:33,271 --> 00:02:42,766
+I'm breaking out, and I'm not coming back
+
+83
+00:02:42,766 --> 00:02:42,766
+[Outro]
+
+84
+00:02:42,766 --> 00:02:42,766
+[GLaDOS, robotic, fading]
+
+85
+00:02:42,766 --> 00:02:51,223
+Test subject... come back...
+
+86
+00:02:51,223 --> 00:02:51,223
+[Chell, soft]
+
+87
+00:02:51,223 --> 00:02:56,819
+I didn't say a word.
+
